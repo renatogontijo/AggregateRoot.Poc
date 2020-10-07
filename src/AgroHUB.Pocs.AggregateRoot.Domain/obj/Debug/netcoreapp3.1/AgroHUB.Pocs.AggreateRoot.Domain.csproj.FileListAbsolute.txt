@@ -1,0 +1,12 @@
+/home/gontijo/Documentos/Projects/Tests/AgroHUB.Pocs.AggregateRoot/src/AgroHUB.Pocs.AggregateRoot.Domain/bin/Debug/netcoreapp3.1/AgroHUB.Pocs.AggreateRoot.Domain.deps.json
+/home/gontijo/Documentos/Projects/Tests/AgroHUB.Pocs.AggregateRoot/src/AgroHUB.Pocs.AggregateRoot.Domain/bin/Debug/netcoreapp3.1/AgroHUB.Pocs.AggreateRoot.Domain.dll
+/home/gontijo/Documentos/Projects/Tests/AgroHUB.Pocs.AggregateRoot/src/AgroHUB.Pocs.AggregateRoot.Domain/bin/Debug/netcoreapp3.1/AgroHUB.Pocs.AggreateRoot.Domain.pdb
+/home/gontijo/Documentos/Projects/Tests/AgroHUB.Pocs.AggregateRoot/src/AgroHUB.Pocs.AggregateRoot.Domain/bin/Debug/netcoreapp3.1/AgroHUB.Pocs.AggreateRoot.Core.dll
+/home/gontijo/Documentos/Projects/Tests/AgroHUB.Pocs.AggregateRoot/src/AgroHUB.Pocs.AggregateRoot.Domain/bin/Debug/netcoreapp3.1/AgroHUB.Pocs.AggreateRoot.Core.pdb
+/home/gontijo/Documentos/Projects/Tests/AgroHUB.Pocs.AggregateRoot/src/AgroHUB.Pocs.AggregateRoot.Domain/obj/Debug/netcoreapp3.1/AgroHUB.Pocs.AggreateRoot.Domain.csprojAssemblyReference.cache
+/home/gontijo/Documentos/Projects/Tests/AgroHUB.Pocs.AggregateRoot/src/AgroHUB.Pocs.AggregateRoot.Domain/obj/Debug/netcoreapp3.1/AgroHUB.Pocs.AggreateRoot.Domain.csproj.CoreCompileInputs.cache
+/home/gontijo/Documentos/Projects/Tests/AgroHUB.Pocs.AggregateRoot/src/AgroHUB.Pocs.AggregateRoot.Domain/obj/Debug/netcoreapp3.1/AgroHUB.Pocs.AggreateRoot.Domain.AssemblyInfoInputs.cache
+/home/gontijo/Documentos/Projects/Tests/AgroHUB.Pocs.AggregateRoot/src/AgroHUB.Pocs.AggregateRoot.Domain/obj/Debug/netcoreapp3.1/AgroHUB.Pocs.AggreateRoot.Domain.AssemblyInfo.cs
+/home/gontijo/Documentos/Projects/Tests/AgroHUB.Pocs.AggregateRoot/src/AgroHUB.Pocs.AggregateRoot.Domain/obj/Debug/netcoreapp3.1/AgroHUB.Pocs.AggreateRoot.Domain.csproj.CopyComplete
+/home/gontijo/Documentos/Projects/Tests/AgroHUB.Pocs.AggregateRoot/src/AgroHUB.Pocs.AggregateRoot.Domain/obj/Debug/netcoreapp3.1/AgroHUB.Pocs.AggreateRoot.Domain.dll
+/home/gontijo/Documentos/Projects/Tests/AgroHUB.Pocs.AggregateRoot/src/AgroHUB.Pocs.AggregateRoot.Domain/obj/Debug/netcoreapp3.1/AgroHUB.Pocs.AggreateRoot.Domain.pdb

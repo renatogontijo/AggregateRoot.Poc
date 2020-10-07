@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "AggreateRoot.Domain/1.0.0": {
+        "dependencies": {
+          "AggreateRoot.Core": "1.0.0"
+        },
+        "runtime": {
+          "AggreateRoot.Domain.dll": {}
+        }
+      },
+      "AggreateRoot.Core/1.0.0": {
+        "runtime": {
+          "AggreateRoot.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AggreateRoot.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AggreateRoot.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

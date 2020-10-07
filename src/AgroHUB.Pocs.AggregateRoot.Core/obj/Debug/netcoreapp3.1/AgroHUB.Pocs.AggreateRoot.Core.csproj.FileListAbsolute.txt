@@ -1,0 +1,9 @@
+/home/gontijo/Documentos/Projects/Tests/AgroHUB.Pocs.AggregateRoot/src/AgroHUB.Pocs.AggregateRoot.Core/bin/Debug/netcoreapp3.1/AgroHUB.Pocs.AggreateRoot.Core.deps.json
+/home/gontijo/Documentos/Projects/Tests/AgroHUB.Pocs.AggregateRoot/src/AgroHUB.Pocs.AggregateRoot.Core/bin/Debug/netcoreapp3.1/AgroHUB.Pocs.AggreateRoot.Core.dll
+/home/gontijo/Documentos/Projects/Tests/AgroHUB.Pocs.AggregateRoot/src/AgroHUB.Pocs.AggregateRoot.Core/bin/Debug/netcoreapp3.1/AgroHUB.Pocs.AggreateRoot.Core.pdb
+/home/gontijo/Documentos/Projects/Tests/AgroHUB.Pocs.AggregateRoot/src/AgroHUB.Pocs.AggregateRoot.Core/obj/Debug/netcoreapp3.1/AgroHUB.Pocs.AggreateRoot.Core.csprojAssemblyReference.cache
+/home/gontijo/Documentos/Projects/Tests/AgroHUB.Pocs.AggregateRoot/src/AgroHUB.Pocs.AggregateRoot.Core/obj/Debug/netcoreapp3.1/AgroHUB.Pocs.AggreateRoot.Core.csproj.CoreCompileInputs.cache
+/home/gontijo/Documentos/Projects/Tests/AgroHUB.Pocs.AggregateRoot/src/AgroHUB.Pocs.AggregateRoot.Core/obj/Debug/netcoreapp3.1/AgroHUB.Pocs.AggreateRoot.Core.AssemblyInfoInputs.cache
+/home/gontijo/Documentos/Projects/Tests/AgroHUB.Pocs.AggregateRoot/src/AgroHUB.Pocs.AggregateRoot.Core/obj/Debug/netcoreapp3.1/AgroHUB.Pocs.AggreateRoot.Core.AssemblyInfo.cs
+/home/gontijo/Documentos/Projects/Tests/AgroHUB.Pocs.AggregateRoot/src/AgroHUB.Pocs.AggregateRoot.Core/obj/Debug/netcoreapp3.1/AgroHUB.Pocs.AggreateRoot.Core.dll
+/home/gontijo/Documentos/Projects/Tests/AgroHUB.Pocs.AggregateRoot/src/AgroHUB.Pocs.AggregateRoot.Core/obj/Debug/netcoreapp3.1/AgroHUB.Pocs.AggreateRoot.Core.pdb
